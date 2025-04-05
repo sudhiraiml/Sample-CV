@@ -1,6 +1,3 @@
-### `README.md`
-
-```markdown
 # 📝 CV Templates Collection
 
 Welcome to the **CV Templates Repository**!
@@ -20,8 +17,8 @@ Here you'll find a few **sample CV templates** that can help you create a profes
 1. Browse the templates in the repository.
 2. Download or clone the repo:
    ```bash
-   git clone https://github.com/yourusername/cv-templates.git
-   ```
+   git clone https://github.com/sudhiraiml/Sample-CV.git
+
 3. Open the template in **Microsoft Word**, **Google Docs**, or **LaTeX** (if applicable).
 4. Customize with your personal information and experience.
 
